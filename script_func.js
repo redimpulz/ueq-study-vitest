@@ -6,7 +6,7 @@ export const subtract = (a, b) => {
   return a - b;
 };
 
-export const getOjb = () => {
+export const getObj = () => {
   return {
     id: 1,
     name: "hoge",
